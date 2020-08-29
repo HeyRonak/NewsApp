@@ -1,8 +1,7 @@
-News application using retrofit2,Glide and circleimageview library.
+## Description
+Features - Search news,share and news description reader.
 
 
-
-# Credit
-
-Ronak parmar
+## Credit
+ Haerul Muttaqin
 
