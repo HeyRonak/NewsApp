@@ -1,5 +1,5 @@
 ## Description
-Features - Search news,share and news description reader.
+Features - Search news,share news and news description reader option.
 
 
 ## Credit
